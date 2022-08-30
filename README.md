@@ -7,4 +7,5 @@ Minimal reproduction to help NX to debug their Cypress component test generator 
 Generated via `nx generate cypress-component-configuration`
 
 To serve: `nx serve`
+
 To run Cypress: `nx run site:component-test --watch`
